@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/avega-senso/code-test-frontend.git"
   },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
