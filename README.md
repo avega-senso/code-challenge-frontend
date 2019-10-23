@@ -1,4 +1,5 @@
 # code-challenge-frontend
+
 Code challenge for future colleges
 
 ## What this challange is
@@ -16,6 +17,7 @@ A test. There's no right way, just some help for us to get a feel for each other
 3. Present them in a list, vertically and horizontally centered.
 4. If you want, style it up using `src/styles/main.css`.
 5. If you want, add a sweet animation and loading state.
+6. Send us a link to the code or as a zip-file.
 
 ### Info
 
