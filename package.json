@@ -1,0 +1,23 @@
+{
+  "name": "code-test-frontend",
+  "version": "1.0.0",
+  "description": "Code challenge for future colleges",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avega-senso/code-test-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avega-senso/code-test-frontend/issues"
+  },
+  "homepage": "https://github.com/avega-senso/code-test-frontend#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
