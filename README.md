@@ -1,12 +1,12 @@
 # code-challenge-frontend
 
-Code challenge for future colleges
+Code challenge for future colleagues.
 
-## What this challange is
+## What this challenge is
 
-Something for us to discuss at the technical interview
+Something for us to discuss at the technical interview.
 
-## What this challange isn't
+## What this challenge isn't
 
 A test. There's no right way, just some help for us to get a feel for each other.
 
@@ -24,7 +24,7 @@ A test. There's no right way, just some help for us to get a feel for each other
 - Use any framework you want or none.
 - You don't need to think about browser support, latest version of chrome is fine.
 - Don't spend to much time on this, we'll discuss what you did even if you didn't "finish".
-- Use something your'e comfortable with, this is not the time to try that new thing.
+- Use something you're comfortable with, this is not the time to try that new thing.
 
 ## Get started
 
